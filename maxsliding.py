@@ -27,7 +27,7 @@ def maxSlidingWindow(nums,k):
     
     return arr
 
-nums = [1,3,-1,-3,5,3,6,7]
-k = 3
-val = maxSlidingWindow(nums,k)
-print(val)
+#[1,3,-1,-3,5,3,6,7]
+#k = 3
+#val = maxSlidingWindow(nums,k)
+#print(val)
