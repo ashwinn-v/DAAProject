@@ -6,15 +6,5 @@ You are given an array of integers nums, there is a sliding window of size k whi
 
 Return the max sliding window.
 
-Example 1: 
-Input: nums = [1,3,-1,-3,5,3,6,7], k = 3
-Output: [3,3,5,5,6,7]
-Explanation: 
-Window position                Max
----------------               -----
-[1  3  -1] -3  5  3  6  7       3
- 1 [3  -1  -3] 5  3  6  7       3
- 1  3 [-1  -3  5] 3  6  7       5
- 1  3  -1 [-3  5  3] 6  7       5
- 1  3  -1  -3 [5  3  6] 7       6
- 1  3  -1  -3  5 [3  6  7]      7
+### Example 1: 
+<img width="340" alt="Screenshot 2021-05-09 at 8 45 30 PM" src="https://user-images.githubusercontent.com/52974732/117577474-85a4f580-b107-11eb-9af2-d4ab1cc09a15.png">
