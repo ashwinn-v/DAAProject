@@ -1,5 +1,6 @@
 # DAAProject
-![](https://img.shields.io/badge/Python-v3.8-blue)
+
+[![](https://img.shields.io/badge/Python-v3.8-blue)](https://www.python.org/downloads/release/python-380/)
 
 ### Sliding Window Maximum
 
